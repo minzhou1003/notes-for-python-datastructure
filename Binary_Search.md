@@ -1,9 +1,6 @@
-# Binary Search
+# Binary Search @ lintcode
 
 457. Classical Binary Search
-
-Find any position of a target number in a sorted array. Return -1 if target does not exist.
-
 ```python
 class Solution:
     """
